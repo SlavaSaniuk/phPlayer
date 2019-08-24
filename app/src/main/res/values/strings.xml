@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">phPlayer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_bar_preferences">Preferences</string>
+    <string name="sText_reset_title">Reset to default preferences</string>
+
+
+    <string name="sView_separation_desc">Separation line</string>
+    <string name="sDialog_boolean_instruction"> Click OK to continue, or Cancel to stop</string>
+    <string name="sBtn_order_desc">player_play_order_button</string>
+</resources>

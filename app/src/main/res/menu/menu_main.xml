@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ph.MainActivity">
+    <item
+        android:id="@+id/action_preferences"
+        android:orderInCategory="10"
+        android:title="@string/title_bar_preferences"
+        android:icon="@drawable/ic_bar_preferences"
+        app:showAsAction="always"
+        />
+</menu>
